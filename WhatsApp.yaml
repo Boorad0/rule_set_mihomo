@@ -1,0 +1,9 @@
+# WHATSAPP 17.02.2026
+######################################
+payload:
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-KEYWORD,whatsapp
+  - IP-ASN,11917
+  - IP-ASN,32934
